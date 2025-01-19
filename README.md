@@ -1,5 +1,5 @@
 <h2 align="left">Hey! Gabriel here</h2>
-<h3 align="left">I'm a brazilian Unity/game developer/designer. I've worked with advergames, educational games, AR and VR. </h3>
+<h3 align="left">I'm a brazilian game developer and game designer. I've worked with advergames, educational games, AR and VR. </h3>
 <h3 align="left">The projects in here are games that I've developed in my spare time throughout the years for game jams, college, studies or job applications. I hope you find them interesting. </h3>
 
 <h3 align="left">Feel free to contact me:</h3>
