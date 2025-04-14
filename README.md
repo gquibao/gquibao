@@ -1,6 +1,6 @@
-<h2 align="left">Hey! Gabriel here</h2>
-<h3 align="left">I'm a brazilian game developer and game designer. I've worked with advergames, educational games, AR and VR. </h3>
-<h3 align="left">The projects in here are games that I've developed in my spare time throughout the years for game jams, college, studies or job applications. I hope you find them interesting. </h3>
+<h2 align="left">Hey, thanks for visiting.</h2>
+<h3 align="left">I'm a brazilian game developer and designer. I've worked with advertisement and educational games, AR and VR (games and non-game software). </h3>
+<h3 align="left">The projects in here are basically games that I've developed in my spare time throughout the years for game jams, college, general studies or job applications. I hope you find them interesting. </h3>
 
 <h3 align="left">Feel free to contact me:</h3>
 <p align="left">
